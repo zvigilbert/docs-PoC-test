@@ -1,0 +1,1 @@
+define({r:0.5,st:'Stem',n:1,t:[0],m:[],u:['../Content/About/ContactUs.htm'],s:['+1','transmit'],p:[['+1',35],['deleted',6],['not',16],['store',6]]});
